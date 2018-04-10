@@ -8,7 +8,7 @@ Starting page: https://www.amazon.cn/gp/bestsellers/books
 
 ## Data fields
 
-* 'No.' - String. e.g. '原则(简体中文版)'
+* 'No.' - String. e.g. '1.'
 * 'author' - String. e.g. '瑞·达利欧'
 * 'price' - String. e.g. '￥63.00'
 * 'title' - String. e.g. '原则(简体中文版)'
