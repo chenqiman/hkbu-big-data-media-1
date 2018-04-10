@@ -4,7 +4,7 @@
 
 This dataset contains Amazon's best book sellers scraped from the website.
 
-Starting page: https://www.amazon.cn/gp/bestsellers/books#1
+Starting page: https://www.amazon.cn/gp/bestsellers/books
 
 ## Data fields
 
